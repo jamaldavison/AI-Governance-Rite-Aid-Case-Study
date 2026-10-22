@@ -1,3 +1,5 @@
+![AI Governance Thumbnail](160285be-433a-46c4-844e-71c432d8351a.png)
+
 # AI Governance & Risk Management Case Study
 
 ## Independent Portfolio Project | 2026
