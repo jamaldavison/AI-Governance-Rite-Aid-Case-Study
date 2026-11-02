@@ -1,5 +1,8 @@
 # AI Governance & Risk Management | Rite Aid Historical Case Study
 
+**Recruiter quick start:** [Read the concise case study](CASE_STUDY.md) · [View the living résumé](https://jamal-davison-live-resume.lovable.app/)
+
+
 **Independent educational portfolio — Jamal Davison (2026)**
 
 > **Scope disclosure:** This project analyzes the historical Rite Aid facial-recognition matter using public information and constructs a *proposed* AI governance program. It is not affiliated with Rite Aid, does not claim access to Rite Aid internal systems, and does not claim that proposed policies or controls were implemented. The supporting sample registers and workbooks are educational models.
